@@ -11,6 +11,9 @@ function Hero() {
         loop
         muted
       />
+      {/* script to allow background video to play in safari */}
+      <script>document.getElementById('vid').play();</script>
+
       <div className="bg-black/30 absolute top-0 left-0 w-full h-full"></div>
       <div className="absolute top-0 w-full h-full flex flex-col justify-center text-white">
         <div className="md:left-[10%] max-w-[1100] n-auto absolute p-4">
