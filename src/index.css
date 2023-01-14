@@ -3,11 +3,6 @@
 @tailwind utilities;
 
 @layer base {
-  * {
-    padding: 0px;
-    margin: 0px;
-    box-sizing: border-box;
-  }
   button {
     @apply border py-2 px-3 rounded-full;
   }
