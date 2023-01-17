@@ -1,6 +1,6 @@
 # WanderlustTravelCo. - Travel Website
 
-**[DEMO LINK](wanderlusttravelco.vercel.app)**
+**[DEMO LINK](https://wanderlusttravelco.vercel.app/)**
 
 ![WanderlustTravelCo. Landing Page](/src/assets/homepage.PNG)
 
